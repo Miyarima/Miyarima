@@ -1,7 +1,7 @@
 # Hello, I’m **Miyarima.**
 
 <br>
-A Programming and Web Development Enthusiast and 2nd Year Student @ BTH. Constantly Learning New Things
+A Programming and Web Development Enthusiast, and 2nd Year Student @ BTH. Constantly Learning New Things
 <br><br>
 <div style="display: flex;">
 Currently Trying to Tackle <img align="center" alt="Rust" width="30px" style="padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
