@@ -5,7 +5,7 @@ A Programming and Web Development Enthusiast, and 2nd Year Student @ BTH. Consta
 <br>
 
 ---
-
+<!---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -20,7 +20,7 @@ A Programming and Web Development Enthusiast, and 2nd Year Student @ BTH. Consta
 <br />
 
 #
-
+-->
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyarima&theme=tokyonight)
