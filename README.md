@@ -1,14 +1,15 @@
 # Hello, I’m **Miyarima.**
 
 <br>
-A Programming and Web Development Enthusiast, and 2nd Year Student @ BTH. Constantly Learning New Things
+A Programming and Web Development Enthusiast, and 3nd Year Student @ BTH. Constantly Learning New Things
 <br>
 
 ---
-<!---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -20,7 +21,7 @@ A Programming and Web Development Enthusiast, and 2nd Year Student @ BTH. Consta
 <br />
 
 #
--->
+
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyarima&theme=tokyonight)
