@@ -1,7 +1,7 @@
 # Hello, I’m **Miyarima.**
 
 <br>
-A Programming and Web Development Enthusiast, and 3rd Year Student @ BTH. Constantly Learning New Things
+A Programming and Web Development Enthusiast, and graduate from BTH. Constantly Learning New Things
 <br>
 
 ---
