@@ -3,6 +3,8 @@
 <br>
 A Programming and Web Development Enthusiast, and graduate from BTH. Constantly Learning New Things
 <br>
+Currently working as a SWE for a big Swedish corporation
+<br>
 
 ---
 
