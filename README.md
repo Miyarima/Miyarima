@@ -1,7 +1,7 @@
 # Hello, I’m **Miyarima.**
 
 <br>
-A Programming and Web Development Enthusiast graduate from BTH. Constantly Learning New Things
+A Programming and Web Development Enthusiast graduate from BTH. Constantly Learning New Things!
 <br>
 Currently working as a SWE for a big Swedish corporation
 <br>
